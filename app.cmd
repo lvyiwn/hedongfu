@@ -18,8 +18,7 @@ ssh GitAdmin@192.168.1.92
 %               创建项目后使用命令               %
 
 E:
-cd E:\Projects\My\HedongFu\app ::进入项目目录
-
+cd E:\Projects\My\HedongFu\app ::进入项目目录 
 
 cnpm run dev ::启动
 
